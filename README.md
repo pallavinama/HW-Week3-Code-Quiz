@@ -12,7 +12,9 @@ Once all the 5 questions are answered, then the web page will be loaded with mod
 Web Browser
 
 # Usage/Walkthrough Steps
-
+1) Load the web page
+2) Click on Start Quiz
+3) 
 # Built with
 Javascript - Programming Language
 
