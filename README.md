@@ -1,5 +1,6 @@
-# Project Title
+# Project Title and Web link:
 Code-Quiz
+URL :https://pallavinama.github.io/HW-Week3-Code-Quiz/
 
 # Project Descripton
 This App will let the user to take a code quiz and based on their responses they will be given credits.Once the webpage is loaded user is presented with instruction and a "Start Quiz" Button to click on .
