@@ -2,6 +2,8 @@
 Code-Quiz
 URL :https://pallavinama.github.io/HW-Week3-Code-Quiz/
 
+![SS -code quiz](https://user-images.githubusercontent.com/61402034/77220234-64a0d000-6b14-11ea-8d47-36f14dec36fd.png)
+
 # Project Descripton
 This App will let the user to take a code quiz and based on their responses they will be given credits.Once the webpage is loaded user is presented with instruction and a "Start Quiz" Button to click on .
 
